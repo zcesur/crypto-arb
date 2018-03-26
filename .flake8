@@ -1,0 +1,10 @@
+[flake8]
+ignore =
+    # multiple statements on one line (colon)
+    E701
+    # continuation line over-indented for visual indent
+    E127
+exclude =
+    temp/
+
+max-line-length=80

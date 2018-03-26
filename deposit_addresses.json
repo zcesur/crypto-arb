@@ -1,0 +1,24 @@
+{
+  "Bittrex": {
+    "XLM": {
+      "kraken_key": "",
+      "address": "",
+      "memo": ""
+    },
+    "XRP": {
+      "kraken_key": "",
+      "address": "",
+      "memo": ""
+    }
+  },
+  "Kraken": {
+    "XLM": {
+      "address": "",
+      "memo": ""
+    },
+    "XRP": {
+      "address": "",
+      "memo": ""
+    }
+  }
+}
